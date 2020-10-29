@@ -126,3 +126,13 @@ export const Issues = styled.div`
 
     }
 `;
+
+export const DivLoader = styled.div`
+    width: 100%;
+    height: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+`;
