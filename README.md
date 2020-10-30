@@ -45,3 +45,7 @@ In the browser access the application:
 ```
 http://localhost:3000
 ```
+
+## Author
+
+Developed by [**Fabio Menozzi**](https://www.linkedin.com/in/menozzi-fabio/)
