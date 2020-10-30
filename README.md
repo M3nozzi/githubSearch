@@ -1,14 +1,15 @@
 # Github Search
 
-<img src="https://res.cloudinary.com/menozzi/image/upload/v1604066708/project2/githubSearch_egf2hx.gif" alt="gif showing the app">
-
-<br/>
-
 ## Project description:
   
 Search repositories on GitHub and explore it. you can get data from the searched repository as numbers of stars, forks, and issues. You can also be directed to the selected issue page.
 
 User actions have sensitive feedback, If the user enters a repository that does not exist, they will have the answer.
+
+
+<img src="https://res.cloudinary.com/menozzi/image/upload/v1604066708/project2/githubSearch_egf2hx.gif" alt="gif showing the app">
+
+<br/>
 
 ## Tecnologies:
 
